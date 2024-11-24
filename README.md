@@ -12,9 +12,9 @@
   </div>
 
 <!-- random quote -->
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+<i>
+    ❝“I'd rather be optimistic and wrong than pessimistic and right.”— Elon Musk❞
+</i>
 
 <!-- avatar gif -->
 <img width="380" align="right" alt="Github"
