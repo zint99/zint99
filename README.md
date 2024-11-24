@@ -11,6 +11,11 @@
     <img src="https://komarev.com/ghpvc/?username=zint99&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
+<!-- random quote -->
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
+<!-- avatar gif -->
 <img width="380" align="right" alt="Github"
 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
 /> 
