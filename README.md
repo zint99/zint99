@@ -25,6 +25,11 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [git 多仓库整合与管理](https://tangly1024.com/technology/git/multi_remote_repo)
+- [C++关键字const与constexpr剖析](https://tangly1024.com/technology/keyword_const)
+- [C++中的作用域, 生存期和链接性](https://tangly1024.com/technology/cpp_scope_duration_linkage)
+- [工作中的常见英文缩写](https://tangly1024.com/technology/english_abbr)
+- [WSL2 开发环境配置](https://tangly1024.com/technology/tools/wsl2Config)
 <!-- BLOG-POST-LIST:END -->
 
 ## Things I code with
