@@ -33,11 +33,11 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [数电快速入门：数字逻辑中的锁存器](https://xlog.app/api/redirection?characterId=73433&noteId=4)
 - [如何使用分类与标签进行知识管理](https://tangly1024.com/technology/RHSYFLYBQJXZSGL)
 - [如何使用分类与标签进行知识管理](https://xlog.app/api/redirection?characterId=73433&noteId=3)
 - [git 多仓库整合与管理](https://tangly1024.com/technology/git/multi_remote_repo)
 - [C++关键字const与constexpr剖析](https://tangly1024.com/technology/keyword_const)
-- [C++中的作用域, 生存期和链接性](https://tangly1024.com/technology/cpp_scope_duration_linkage)
 <!-- BLOG-POST-LIST:END -->
 
 ## Things I code with
