@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.joytown99.top/rss/feed.xml,https://joytown.xlog.app/feed"
+          feed_list: "https://joytown.xlog.app/feed"
