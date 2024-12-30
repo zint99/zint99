@@ -33,11 +33,11 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [数字集成电路物理设计3.1：布图规划](https://xlog.app/api/redirection?characterId=73433&noteId=8)
 - [数字集成电路物理设计1.2：设计流程](https://xlog.app/api/redirection?characterId=73433&noteId=7)
 - [IC基础概念：LEF, DEF &amp; LIB 文件](https://xlog.app/api/redirection?characterId=73433&noteId=6)
 - [IC基础概念：集成电路设计流程](https://xlog.app/api/redirection?characterId=73433&noteId=5)
 - [数电快速入门：数字逻辑中的锁存器](https://xlog.app/api/redirection?characterId=73433&noteId=4)
-- [如何使用分类与标签进行知识管理](https://xlog.app/api/redirection?characterId=73433&noteId=3)
 <!-- BLOG-POST-LIST:END -->
 
 ## Things I code with
