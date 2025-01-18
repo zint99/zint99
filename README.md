@@ -27,7 +27,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 - 📚 Master's graduate in **Electronic Information** from the University of Electronic Science and Technology of China.
 
-- 🎯 2024 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/) and [blog](https://joytown99.top/)
+- 🎯 2025 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/) and [blog](https://joytown99.top/)
 
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
@@ -58,6 +58,9 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
   <code><img width="30" src="https://zellij.dev/img/logo.png" alt="Zellig" title="Zellig"/></code>
   <code><img width="30" src="https://fishshell.com/docs/current/_static/fish.png" alt="fish" title="fish"/></code>
 </div>
+
+## Milestone
+- Views > 200, Jan 18'25
 
 <!--
 **zint99/zint99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
