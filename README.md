@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=550&size=22&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Joy+Tang" alt="Typing SVG" />
-  </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hollow+World" alt="Typing SVG" /></a>
 </p>
 
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://joytown.xlog.app/"><img src="https://img.shields.io/badge/Website-xLog-8c36db" /></a>&emsp;
-    <a href="https://joytown99.top/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=zint99&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
@@ -25,9 +22,9 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 - 💼 **R&D Engineer** at A Chinese **EDA** (Electronic design automation) startup
 
-- 📚 Master's graduate in **Electronic Information** from the University of Electronic Science and Technology of China.
+- 📚 Master's graduate in **Electronic Information** from the University of Electronic Science and Technology of China
 
-- 🎯 2025 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/) and [blog](https://joytown99.top/)
+- 🎯 2025 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/)
 
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
