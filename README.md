@@ -20,10 +20,6 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## About me <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" />
 
-- 💼 **R&D Engineer** at A Chinese **EDA** (Electronic design automation) startup
-
-- 📚 Master's graduate in **Electronic Information** from the University of Electronic Science and Technology of China
-
 - 🎯 2025 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/)
 
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
