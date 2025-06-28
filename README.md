@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hollow+World" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=YOLO%2C+Right%3F" alt="Typing SVG" /></a>
 </p>
 
 <!-- profile logo 个人资料徽标 -->
