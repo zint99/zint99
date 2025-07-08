@@ -18,7 +18,7 @@
 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
 /> 
 
-## About me <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" />
+## About me <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODQyNDQsIm5iZiI6MTc1MTk4Mzk0NCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE0MTIyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YWY4MTMwNzEzOTJmMDdkZDQzYWVkNTg2ZWRjMDAxOGY4MzcxZWQ3ZTM4MWQ2NmUxZTAxMjFlYzA0NTgzNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LiWvZ6WJQOg2A46m-h2C6mHsPzE2GqITmYTT8CAiuqE" width="28" />
 
 - 🎯 2025 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/)
 
