@@ -13,18 +13,20 @@
 </i>
 
 <!-- avatar gif -->
-<img width="380" align="right" alt="Github"
+<img width="360" align="right" alt="Github"
 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
 /> 
+
+## About me
+
+- 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [如何使用分类与标签进行知识管理](https://xlog.app/api/redirection?characterId=73433&noteId=3)
 <!-- BLOG-POST-LIST:END -->
 
-## About me
-
-- 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
+## Stats
 
 <!-- Copy-paste in your Readme.md file -->
 
