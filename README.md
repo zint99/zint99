@@ -10,7 +10,7 @@
 
 <!-- random quote -->
 <i>
-    ❝“I'd rather be optimistic and wrong than pessimistic and right.”— Elon Musk❞
+    ❝I'd rather be optimistic and wrong than pessimistic and right.— Elon Musk❞
 </i>
 
 <!-- avatar gif -->
