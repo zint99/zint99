@@ -20,8 +20,6 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## About me <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODQyNDQsIm5iZiI6MTc1MTk4Mzk0NCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE0MTIyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YWY4MTMwNzEzOTJmMDdkZDQzYWVkNTg2ZWRjMDAxOGY4MzcxZWQ3ZTM4MWQ2NmUxZTAxMjFlYzA0NTgzNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LiWvZ6WJQOg2A46m-h2C6mHsPzE2GqITmYTT8CAiuqE" width="28" />
 
-- 🎯 2025 Goals: Update more to my blogs: [xLog](https://joytown.xlog.app/)
-
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
 ## Latest Blog Posts
@@ -36,12 +34,10 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="Neovim" title="Neovim"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-	<code><img width="30" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="Metamask" title="Metamask"/></code>
   <code><img width="18" src="https://wiki.tcl-lang.org/image/Tcl%2FTk+Core+Logo+75+Animated" alt="Tcl" title="Tcl"/></code>
   <code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian" title="Obsidian"/></code>
   <code><img width="30" src="https://zellij.dev/img/logo.png" alt="Zellig" title="Zellig"/></code>
