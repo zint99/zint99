@@ -26,3 +26,13 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68209167" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68209167&image_size=auto&color_scheme=dark" width="600" height="auto">
+    <img alt="Dashboard stats of @zint99" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68209167&image_size=auto&color_scheme=light" width="600" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
