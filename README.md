@@ -17,16 +17,16 @@
 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
 /> 
 
-## About me
-
-- 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
-
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [如何使用分类与标签进行知识管理](https://xlog.app/api/redirection?characterId=73433&noteId=3)
 <!-- BLOG-POST-LIST:END -->
 
-## Things I code with
+## About me
+
+- 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
+
+### Things I code with
 
 <div align="left">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -39,9 +39,10 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
   <code><img width="18" src="https://wiki.tcl-lang.org/image/Tcl%2FTk+Core+Logo+75+Animated" alt="Tcl" title="Tcl"/></code>
   <code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian" title="Obsidian"/></code>
-  <code><img width="30" src="https://zellij.dev/img/logo.png" alt="Zellig" title="Zellig"/></code>
+  <code><img width="30" src="https://zellij.dev/img/logo.png" alt="Zellij" title="Zellij"/></code>
   <code><img width="30" src="https://fishshell.com/docs/current/_static/fish.png" alt="fish" title="fish"/></code>
 </div>
 
-## Milestone
+### Milestone
+
 - Views > 200, Jan 18'25
