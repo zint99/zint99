@@ -26,23 +26,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
-### Things I code with
-
-<div align="left">
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="Neovim" title="Neovim"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
-	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-  <code><img width="18" src="https://wiki.tcl-lang.org/image/Tcl%2FTk+Core+Logo+75+Animated" alt="Tcl" title="Tcl"/></code>
-  <code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian" title="Obsidian"/></code>
-  <code><img width="30" src="https://zellij.dev/img/logo.png" alt="Zellij" title="Zellij"/></code>
-  <code><img width="30" src="https://fishshell.com/docs/current/_static/fish.png" alt="fish" title="fish"/></code>
-</div>
-
 ### Milestone
 
-- Views > 200, Jan 18'25
+- [x] Views > 200 (Jan 18, 2025)
+- [ ] Views > 500
