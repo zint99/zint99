@@ -26,7 +26,3 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 - 💬 Ask me about anything [here](https://github.com/zint99/zint99/issues)
 
-### Milestone
-
-- [x] Views > 200 (Jan 18, 2025)
-- [ ] Views > 500
