@@ -23,8 +23,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [如何使用分类与标签进行知识管理](https://xlog.app/api/redirection?characterId=73433&noteId=3)
-- [Markdown 语法支持](https://blog-pure-eta.vercel.app/blog/markdown-zh)
+- [Windows 及 WSL2 环境搭建全指南](https://blog-pure-eta.vercel.app/blog/env-setup/env-setup)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
